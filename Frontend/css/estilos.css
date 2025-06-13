@@ -1,0 +1,59 @@
+.navbar{
+
+    background-color: rgb(230, 138, 18) !important;
+}
+.nav-link{
+    color: rgb(255, 255, 255) !important;
+    font-weight: 500 !important;
+}
+.nav-link:hover{
+    font-size: large;
+}
+#cerrar{
+    color: black !important;
+}
+a{
+    font-weight: 700 !important;
+    color: rgb(255, 255, 255) !important;
+}
+#box{
+    color: rgb(255, 255, 255);
+    background-color: rgb(245, 170, 108);
+    font-weight: 600;
+}
+#Iniciar{
+    color: rgb(255, 255, 255) !important;
+    background-color: rgb(243, 142, 59) !important;
+     border-color: rgb(255, 255, 255);
+}
+.btn{
+    
+    background-color: rgb(230, 138, 18) ;
+    border-color: rgb(255, 255, 255);
+    
+    font-weight: 600;
+}
+.btn:hover{
+     background-color: rgb(131, 74, 0);
+    border-color: rgb(255, 255, 255);
+    
+    font-weight: 600;
+
+}
+.card-footer{
+    background-color: rgb(230, 138, 18);
+    color: aliceblue !important;
+}
+.card-body{
+    background-color:rgb(252, 164, 93);
+    color: rgb(255, 255, 255);
+    font-weight: 600;   
+}
+.table-responsive{
+    background-color:rgb(230, 138, 18);
+}
+
+th{
+    background-color:rgb(230, 138, 18) !important;
+    color: rgb(255, 255, 255);
+}
